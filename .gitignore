@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
